@@ -12,7 +12,7 @@ I am a **Senior Full-Stack & AI-Integration Software Engineer** with over a deca
 ### 🚀 Key Projects & AI Impact
 - **Live Solar Battery Predictive Monitoring System:** A real-time predictive analytics dashboard natively deployed on Microsoft Azure, utilizing Python (Pandas) and ML concepts to forecast battery degradation and automate anomaly alerts.
 - **Advanced Salon & Barber Management System:** A robust single-tenant SaaS ERP built with Django, React, and Stripe for financial transactions. Secured via JWT and routed through Google SMTP.
-- **Multi-Lingual E-Commerce (barhamikurdi.com):** A high-performance, bilingual digital marketplace featuring a complex international logistics pricing matrix for cross-border shipping based on weight and country destination.
+- **Multi-Lingual E-Commerce :** A high-performance, bilingual digital marketplace featuring a complex international logistics pricing matrix for cross-border shipping based on weight and country destination.
 
 ### 🎥 Technical Content Creation
 - I host a structured **30-lesson Python and Software Design Patterns course** on YouTube (**@enghamaofficial**), mentoring beginners on how to build production-ready and scalable codebases.
