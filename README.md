@@ -1,6 +1,6 @@
 # Hi there, I'm Hama Khidr Hama 👋
 
-I am a **Senior Full-Stack & AI-Integration Software Engineer** with over a decade of experience architecting reliable web platforms, cloud solutions, and intelligent data systems for international markets. I specialize in embedding Artificial Intelligence, Machine Learning models, and automated logic into modern cloud-native web architectures.
+I am a **Full-Stack & AI-Integration Software Engineer** with over a decade of experience architecting reliable web platforms, cloud solutions, and intelligent data systems for international markets. I specialize in embedding Artificial Intelligence, Machine Learning models, and automated logic into modern cloud-native web architectures.
 
 ### 🛠️ Tech Stack & Expertise
 - **AI & Data Science:** Azure AI Services | Machine Learning Concepts | Data Pipelines (Pandas, NumPy) | Azure AI-102 (In Progress)
